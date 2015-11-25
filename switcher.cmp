@@ -1,4 +1,108 @@
-Cmp-Mod V01 Created by PcbNew   date = jue 19 nov 2015 13:44:10 ART
+Cmp-Mod V01 Created by PcbNew   date = mié 25 nov 2015 11:35:17 ART
+
+BeginCmp
+TimeStamp = 564DEEB8
+Path = /564DB655
+Reference = P11;
+ValeurCmp = CONN_01X04;
+IdModule  = PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DEE4C
+Path = /564DA531
+Reference = P10;
+ValeurCmp = CONN_01X04;
+IdModule  = PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DEF90
+Path = /564DCF6A
+Reference = P13;
+ValeurCmp = CONN_01X04;
+IdModule  = PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DEF24
+Path = /564DC283
+Reference = P12;
+ValeurCmp = CONN_01X04;
+IdModule  = PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DEDC9
+Path = /564D95A9
+Reference = P8;
+ValeurCmp = CONN_01X04;
+IdModule  = PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DED5D
+Path = /564D8619
+Reference = P7;
+ValeurCmp = CONN_01X04;
+IdModule  = PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DECF1
+Path = /564EC53A
+Reference = P6;
+ValeurCmp = CONN_01X02;
+IdModule  = PHOENIX_MSTBA2,54-G_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DF0D7
+Path = /564EDC90
+Reference = SW2;
+ValeurCmp = SP3T;
+IdModule  = PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DEC4F
+Path = /564D4450
+Reference = P4;
+ValeurCmp = CONN_01X04;
+IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DECBB
+Path = /564D3ACC
+Reference = P5;
+ValeurCmp = CONN_01X04;
+IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DEBE3
+Path = /564D3913
+Reference = P3;
+ValeurCmp = CONN_01X04;
+IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DEB77
+Path = /564E4406
+Reference = P2;
+ValeurCmp = CONN_01X02;
+IdModule  = locales:PHOENIX_MSTBA2,54-G_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 564DEB41
+Path = /564C7DE5
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = locales:PHOENIX_MSTBA2,54-G_2;
+EndCmp
 
 BeginCmp
 TimeStamp = 564DF1EF
@@ -41,107 +145,11 @@ IdModule  = Relays_ThroughHole:Relay_SANYOU_SRD_Series_Form_C;
 EndCmp
 
 BeginCmp
-TimeStamp = 564DEB41
-Path = /564C7DE5
-Reference = P1;
-ValeurCmp = CONN_01X02;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_2;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DEB77
-Path = /564E4406
-Reference = P2;
-ValeurCmp = CONN_01X02;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_2;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DEBE3
-Path = /564D3913
-Reference = P3;
-ValeurCmp = CONN_01X04;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DEC4F
-Path = /564D4450
-Reference = P4;
-ValeurCmp = CONN_01X04;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DECBB
-Path = /564D3ACC
-Reference = P5;
-ValeurCmp = CONN_01X04;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DECF1
-Path = /564EC53A
-Reference = P6;
-ValeurCmp = CONN_01X02;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_2;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DED5D
-Path = /564D8619
-Reference = P7;
-ValeurCmp = CONN_01X04;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DEDC9
-Path = /564D95A9
-Reference = P8;
-ValeurCmp = CONN_01X04;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
-EndCmp
-
-BeginCmp
 TimeStamp = 564DEDE0
 Path = /544E432C
 Reference = P9;
 ValeurCmp = BDM;
 IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DEE4C
-Path = /564DA531
-Reference = P10;
-ValeurCmp = CONN_01X04;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DEEB8
-Path = /564DB655
-Reference = P11;
-ValeurCmp = CONN_01X04;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DEF24
-Path = /564DC283
-Reference = P12;
-ValeurCmp = CONN_01X04;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DEF90
-Path = /564DCF6A
-Reference = P13;
-ValeurCmp = CONN_01X04;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
 EndCmp
 
 BeginCmp
@@ -286,14 +294,6 @@ Path = /5645DE10
 Reference = RV1;
 ValeurCmp = POT;
 IdModule  = Potentiometers:Potentiometer_Trimmer-Suntan-TSR-3386P;
-EndCmp
-
-BeginCmp
-TimeStamp = 564DF0A1
-Path = /564CAD6A
-Reference = SW1;
-ValeurCmp = RESET;
-IdModule  = Fuse_Holders_and_Fuses:Fuseholder6x32_Horiz_Open_Schurter0031-8002;
 EndCmp
 
 BeginCmp
@@ -449,11 +449,91 @@ IdModule  = Mounting_Holes:MountingHole_3mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 564DF0D7
-Path = /564EDC90
-Reference = SW2;
-ValeurCmp = SP3T;
-IdModule  = locales:PHOENIX_MSTBA2,54-G_4;
+TimeStamp = 564DF0A1
+Path = /564CAD6A
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = locales:sw_push4p;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E0236
+Path = /544F8C98
+Reference = D1;
+ValeurCmp = BRIDGE;
+IdModule  = locales:Bridge-rond;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E05C1
+Path = /544E4331
+Reference = C1;
+ValeurCmp = 10 uF;
+IdModule  = locales:C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E05CC
+Path = /544E4332
+Reference = C2;
+ValeurCmp = 0,1 uF;
+IdModule  = locales:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E05D4
+Path = /544F8D27
+Reference = C5;
+ValeurCmp = 470 uF;
+IdModule  = locales:C1V8;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E05DF
+Path = /544FA334
+Reference = C6;
+ValeurCmp = 0.33 uF;
+IdModule  = locales:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E05EA
+Path = /544E4329
+Reference = C7;
+ValeurCmp = 0.1 uF;
+IdModule  = locales:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E05F5
+Path = /544FA435
+Reference = C8;
+ValeurCmp = 0.01 uF;
+IdModule  = locales:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E0600
+Path = /5645FCA3
+Reference = C12;
+ValeurCmp = 0,1 uF;
+IdModule  = locales:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E09E2
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = locales:LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = 564E09FF
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = locales:LOGO;
 EndCmp
 
 EndListe
