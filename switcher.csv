@@ -1,6 +1,32 @@
-Producto	Descripción	Cantidad
-LM7805	REG. POSITIVO 5V 1.5A (TO-220) 	10
-TS12.5	PULSADOR TACT SWITCH 12.5 mm (TS065) 	5
-4N25	OPTO LED-TRANS. 5300V CTR= 100(> 20)%	20
-Capacitor cerámico	Capacitor ceramico 10 nF 16V	20
-Capacitor cerámico	Capacitor ceramico 0,33 nF 16V	20
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"P11,P10,P13,P12,P8,P7";"PHOENIX_MSTBA2,54-G_4";6;"CONN_01X04";;;
+2;"P6";"PHOENIX_MSTBA2,54-G_2";1;"CONN_01X02";;;
+3;"SW2";"PHOENIX_MSTBA2,54-G_4";1;"SP3T";;;
+4;"P4,P5,P3";"PHOENIX_MSTBA2,54-G_4";3;"CONN_01X04";;;
+5;"P2,P1";"PHOENIX_MSTBA2,54-G_2";2;"CONN_01X02";;;
+6;"VR1";"SIOV-S20K150";1;"VR";;;
+7;"D2";"D3";1;"1N4001";;;
+8;"D3";"LED-RGB-5MM_Common_Cathode";1;"Led_RGB_CA";;;
+9;"F1";"Fuseholder6x32_Horiz_Open_Schurter0031-8002";1;"FUSE";;;
+10;"P9";"Pin_Header_Straight_2x03";1;"BDM";;;
+11;"Q1";"TO-92_Rugged";1;"BC237";;;
+12;"R1";"R3";1;"10k";;;
+13;"R2,R3";"R3";2;"1k";;;
+14;"R4,R5,R6,R7,R8,R9,R10,R11,R12,R14,R15,R16";"R3";12;"220";;;
+15;"R13";"R3";1;"10K";;;
+16;"RV1";"Potentiometer_Trimmer-Suntan-TSR-3386P";1;"POT";;;
+17;"T1";"TFCOBSIL2209VCA200mA";1;"TRANSFO";;;
+18;"U1";"DIP-20__300_ELL";1;"MC9S08SH8";;;
+19;"U2";"TO-220";1;"78L05";;;
+20;"U3,U4,U5,U6,U7,U8,U9,U10,U11,U12,U13,U14";"DIP-6__300_ELL";12;"4N25";;;
+21;"REF**,REF**,REF**,REF**";"MountingHole_3mm";4;"MountingHole_3mm";;;
+22;"SW1";"sw_push4p";1;"RESET";;;
+23;"D1";"Bridge-rond";1;"BRIDGE";;;
+24;"C1";"C1V5";1;"10 uF";;;
+25;"C2,C12";"C1";2;"0,1 uF";;;
+26;"C5";"C1V8";1;"470 uF";;;
+27;"C6";"C1";1;"0.33 uF";;;
+28;"C7";"C1";1;"0.1 uF";;;
+29;"C8";"C1";1;"0.01 uF";;;
+30;"G***,G***";"LOGO";2;"LOGO";;;
+31;"K1";"RELAY-HJQ-15F";1;"RELAY";;;
