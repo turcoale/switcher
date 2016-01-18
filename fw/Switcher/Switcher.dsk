@@ -31,7 +31,7 @@ WindowState=NORMAL
 Rect=[0|524|500|118]
 
 [BeanSelector]
-Status=Visible
+Status=hiden
 WindowState=NORMAL
 Rect=[500|350|500|262]
 BF_ForTgtCpuOnly=Yes
@@ -91,7 +91,7 @@ FindScope=FROM_CURSOR
 FindHistory=0
 ReplaceHistory=0
 OpenFilesCount=0
-SelFile=F:\switcher\fw\Switcher\CODE\timer.c
+SelFile=
 SelLine=-1
 FileHistory=0
 
